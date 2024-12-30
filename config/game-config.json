@@ -1,0 +1,44 @@
+{
+    "cards": [
+      {
+        "id": "earth",
+        "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%2334A853' stroke='%23135E96' stroke-width='2'/%3E%3Cpath d='M30 40 Q50 20 70 40 T90 60' fill='none' stroke='%23135E96' stroke-width='2'/%3E%3C/svg%3E",
+        "alt": "Earth"
+      },
+      {
+        "id": "mars",
+        "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23FF4444' stroke='%23CC0000' stroke-width='2'/%3E%3Ccircle cx='40' cy='40' r='10' fill='%23CC0000'/%3E%3C/svg%3E",
+        "alt": "Mars"
+      },
+      {
+        "id": "saturn",
+        "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='35' fill='%23FFB900'/%3E%3Cellipse cx='50' cy='50' rx='45' ry='15' fill='none' stroke='%23CC8800' stroke-width='4'/%3E%3C/svg%3E",
+        "alt": "Saturn"
+      },
+      {
+        "id": "jupiter",
+        "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23FFB347' stroke='%23CC8800' stroke-width='2'/%3E%3Cpath d='M20 50 h60' stroke='%23CC8800' stroke-width='8'/%3E%3C/svg%3E",
+        "alt": "Jupiter"
+      },
+      {
+        "id": "neptune",
+        "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%234169E1' stroke='%230000CC' stroke-width='2'/%3E%3Cpath d='M30 50 Q50 30 70 50' fill='none' stroke='%230000CC' stroke-width='4'/%3E%3C/svg%3E",
+        "alt": "Neptune"
+      },
+      {
+        "id": "sun",
+        "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='40' fill='%23FFD700'/%3E%3Cg stroke='%23FFA500' stroke-width='4'%3E%3Cline x1='50' y1='0' x2='50' y2='20'/%3E%3Cline x1='50' y1='80' x2='50' y2='100'/%3E%3Cline x1='0' y1='50' x2='20' y2='50'/%3E%3Cline x1='80' y1='50' x2='100' y2='50'/%3E%3C/g%3E%3C/svg%3E",
+        "alt": "Sun"
+      },
+      {
+        "id": "moon",
+        "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23D3D3D3' stroke='%23A9A9A9' stroke-width='2'/%3E%3Ccircle cx='25' cy='30' r='10' fill='%23A9A9A9'/%3E%3Ccircle cx='60' cy='65' r='15' fill='%23A9A9A9'/%3E%3C/svg%3E",
+        "alt": "Moon"
+      },
+      {
+        "id": "comet",
+        "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cpath d='M10 90 Q30 60 60 30 T90 10' fill='none' stroke='%2387CEEB' stroke-width='4'/%3E%3Ccircle cx='60' cy='30' r='20' fill='%2387CEEB'/%3E%3C/svg%3E",
+        "alt": "Comet"
+      }
+    ]
+  }
